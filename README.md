@@ -1,4 +1,4 @@
-# Hi there, I'm [Abhijit]! 👋
+# Hi there, I'm Abhijit! 👋
 
 ### 👨‍💻 About Me:
 - 🎓 I’m a Senior Software Engineer with 3+ years of experience specializing in **Django** backend development.
